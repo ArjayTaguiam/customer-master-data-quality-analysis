@@ -1,0 +1,6 @@
+customer_id,full_name,email,phone,city,source_system
+1,John Smith,john@gmail.com,09171234567,Manila,System_A
+2,Mary Cruz,,09181234567,Cebu,System_B
+3,John Smith,john@gmail.com,09171234567,Manila,System_A
+4,Peter Reyes,petergmail.com,09191234567,Davao,System_C
+5,Ana Santos,ana@gmail.com,,Manila,System_B
